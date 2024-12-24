@@ -1,0 +1,21 @@
+{
+    "name": "Nutriranker - Free Nutrition Tools",
+    "short_name": "Nutriranker",
+    "theme_color": "#0d6dfc",
+    "background_color": "#f5f6f7",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "description": "Find foods with the highest nutrient levels by weight or calories, and compare foods by nutrient levels",
+    "orientation": "any",
+    "icons": [
+		{
+			"src": "resources/avo.png",
+			"sizes": "512x512"
+		},
+		{
+			"src": "resources/avo-192.png",
+			"sizes": "192x192"
+		}
+	]
+}
